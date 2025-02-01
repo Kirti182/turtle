@@ -60,7 +60,7 @@ ros2 run ugv_package sensor_subscriber
 3. Install Cartographer<br/>
 ```bash   
 sudo apt install ros-humble-cartographer  
- sudo apt install ros-humble-cartographer-ros
+sudo apt install ros-humble-cartographer-ros
  ```
 
 3. Install TurtleBot3 Simulation Package<br/>
