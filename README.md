@@ -46,6 +46,7 @@ ros2 run ugv_package sensor_subscriber
 **Watch the demonstration here**
 [sensor_readings](https://drive.google.com/file/d/1muEqbCgBzzJ3uWuDzKc_pDXxm7IlId50/view?usp=sharing)
 
+## Installation & Dependencies
 
 1. Install Gazebo
     ```bash 
