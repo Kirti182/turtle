@@ -43,7 +43,9 @@ Run
 ros2 run ugv_package sensor_publisher  
 ros2 run ugv_package sensor_subscriber
 ```
-[Watch the demonstration here]
+**Watch the demonstration here**
+[subcriber_readings](https://drive.google.com/file/d/1t39hPlMtHfeuI-3iwAiVgLlqPh81NjTC/view?usp=sharing)
+[publisher_readings](https://drive.google.com/file/d/1muEqbCgBzzJ3uWuDzKc_pDXxm7IlId50/view?usp=sharing)
 
 
 1. Install Gazebo
