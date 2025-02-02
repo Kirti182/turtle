@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>ugv_package</name>
+  <version>0.0.0</version>
+  <description>The UGV package</description>
+  
+  <!-- Maintainer details -->
+  <maintainer email="youremail@example.com">Your Name</maintainer>
+
+  <!-- License for the package -->
+  <license>Apache-2.0</license>
+
+  <!-- Dependencies for the package -->
+  <depend>rclpy</depend>          <!-- ROS 2 Python client library -->
+  <depend>gazebo_ros</depend>      <!-- Gazebo ROS integration -->
+  <depend>ament_cmake</depend>    <!-- Build system for ROS 2 packages -->
+  
+  <!-- Testing dependencies -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <!-- No need to list gazebo_ros again as exec_depend -->
+</package>
+
